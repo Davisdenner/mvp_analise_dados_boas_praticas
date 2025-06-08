@@ -17,6 +17,7 @@ Todas as etapas de tratamento, análise exploratória e preparação dos dados f
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/databricks/E52E2E" width="40" height="40" />
 
 </div>
 
