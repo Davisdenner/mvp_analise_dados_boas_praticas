@@ -7,24 +7,3 @@ Este projeto consiste em um notebook desenvolvido no Google Colab que tem como o
 Todas as etapas de tratamento, análise exploratória e preparação dos dados foram conduzidas utilizando a linguagem de programação Python, com o apoio de bibliotecas especializadas em ciência de dados, como pandas, numpy, seaborn, matplotlib, plotly e scikit-learn.
 
 
-📁 **Conjunto de Dados**
-
-O projeto utiliza um conjunto de dados, que contém 5.000 registros de estudantes universitários dos Estados Unidos. As variáveis contemplam informações relevantes para a análise do desempenho acadêmico e suas correlações com indicadores de sucesso profissional.
-
-**Estrutura do Dataset**
-
-- Formato: CSV
-
-- Número de instâncias: 5.000
-
-- Número de atributos: Diversos campos categóricos e numéricos relacionados a:
-
-- Instituição de ensino e seu ranking (university_ranking)
-
-- Área de formação acadêmica (field_of_study)
-
-- Desempenho acadêmico e técnico (gpa, skills_score)
-
-- Experiências extracurriculares e de mercado (internships_completed, networking_score)
-
-- Indicadores de carreira (starting_salary, years_to_promotion, entre outros)
