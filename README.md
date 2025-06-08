@@ -10,7 +10,7 @@ Todas as etapas de tratamento, análise exploratória e preparação dos dados f
 
 
 📁 **Conjunto de Dados**
-O projeto utiliza o conjunto de dados [Education & Career Success](https://www.kaggle.com/datasets/adilshamim8/education-and-career-success), que contém 5.000 registros de estudantes universitários dos Estados Unidos. As variáveis contemplam informações relevantes para a análise do desempenho acadêmico e suas correlações com indicadores de sucesso profissional.
+O projeto utiliza um conjunto de dados, que contém 5.000 registros de estudantes universitários dos Estados Unidos. As variáveis contemplam informações relevantes para a análise do desempenho acadêmico e suas correlações com indicadores de sucesso profissional.
 
 **Estrutura do Dataset**
 
